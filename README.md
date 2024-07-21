@@ -1,4 +1,4 @@
-Hi 👋 My name is mandla dyonase
+Hi 👋 My name is Mandla dyonase
 ===============================
 
 Web developer
