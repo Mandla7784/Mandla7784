@@ -1,7 +1,7 @@
 Hi 👋 My name is Mandla dyonase
 ===============================
 
-Web developer
+Software Engineer
 -------------
 
 As a passionate and skilled Front-End Developer, I specialize in crafting seamless and dynamic web applications using React, JavaScript, and Bootstrap.
