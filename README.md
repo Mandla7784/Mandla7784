@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <samp>
-    「 A passionate Software Engineer & Data Engineer from <b>Cape Town, South Africa</b> 🇿🇦 」  
+    「 A passionate Software Engineer with  Data Engineering background from <b>Cape Town, South Africa</b> 🇿🇦 」  
     <br>
-    「 Building scalable applications, designing APIs, and solving complex problems 」  
+    「 Building scalable applications, building APIs, and solving complex problems 」  
   </samp>
 </p>
 
