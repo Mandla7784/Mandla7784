@@ -64,7 +64,6 @@
 
 ## Top Projects
 
-[![Online Shopping](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=online-shopping-Javascriptt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/online-shopping-Javascriptt)
 
 [![SA Deliver](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=SA-deliver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/SA-deliver)
 
