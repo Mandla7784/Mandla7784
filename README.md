@@ -2,6 +2,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Mandla7784&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
 <h3 align="center">
   <samp>&gt; Hey There! I am
     <b><a target="_blank" href="https://github.com/Mandla7784">Mandla Dyonase</a></b>
@@ -30,7 +32,8 @@
 
 <br/>
 
-## About Me
+<!-- About Section -->
+# About Me
 
 <p>
  <img align="right" width="350" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding gif" />
@@ -89,3 +92,14 @@
 </a>
 
 ![Mandla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&custom_title=Mandla's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
+<hr/>
+<br/>
+
+### Fun Section
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="fun gif"/>
+  <br>
+  Keep coding, keep learning! 💻🚀
+</p>
