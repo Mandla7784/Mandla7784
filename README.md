@@ -39,8 +39,8 @@
   
  ✌️ &emsp; Love coding and exploring new technologies <br/><br/>
  ❤️ &emsp; Enjoy building scalable web & data applications <br/><br/>
- 📧 &emsp; Reach me anytime: mandla.dyonase@example.com <br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/Mandla7784/issues)
+
+
 </p>
 
 <br/><br/><br/>
