@@ -1,17 +1,22 @@
 <h2 align="left">Hi 👋! My name is Mandla Dyonase and I'm a passionate Software Engineer with a Data Engineering background from South Africa 🇿🇦</h2>
 
-###
-
 💡 I love building scalable web applications, crafting clean UI/UX, and working with data to solve real-world problems.  
 🚀 Currently improving my skills in backend engineering, data pipelines, and cloud technologies.  
-🎯 Goal: To build modern software solutions that empower businesses and communities.
+🎯 Goal: To build modern software solutions that empower businesses and communities.  
 
 ---
 
+### 📊 GitHub Stats & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandla7784&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mandla7784&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&area=true&hide_border=false&hide_title=false&theme=dracula" height="150" alt="activity-graph graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandla7784&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="160" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandla7784&theme=dracula&hide_border=false" height="160" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&layout=compact&theme=dracula&langs_count=8&hide_border=false" height="160" alt="Top Languages" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&bg_color=282a36&color=ff79c6&line=50fa7b&point=bd93f9&area=true&hide_border=false" height="200" alt="Contribution Graph" />
+
 </div>
 
 ---
@@ -51,7 +56,7 @@
 
 ---
 
-### 🌍 Connect with me
+### 🌍 Connect with Me
 <div align="left">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -76,7 +81,7 @@
 ---
 
 ### ✨ About Me
-- 💻 Passionate about full-stack development and data-driven solutions  
-- 📊 Experienced in building RESTful APIs, dashboards, and modern web apps  
+- 💻 Passionate about **full-stack development** and **data-driven solutions**  
+- 📊 Experienced in building **RESTful APIs**, **dashboards**, and **modern web apps**  
 - 🌱 Currently exploring **cloud computing**, **data pipelines**, and **AI integration**  
 - ⚡ Fun fact: I enjoy solving problems that make people’s lives easier 🚀
