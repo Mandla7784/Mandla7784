@@ -32,7 +32,6 @@
 
 <br/>
 
-<!-- About Section -->
 # About Me
 
 <p>
@@ -64,9 +63,10 @@
 <br/>
 
 ## Top Projects
-[![Online Shop](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=online-shopping-Javascriptt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/online-shopping-Javascriptt)
-[![School System](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=school-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/school-management-system)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/portfolio)
+
+[![Online Shopping](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=online-shopping-Javascriptt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/online-shopping-Javascriptt)
+
+[![SA Deliver](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=SA-deliver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/SA-deliver)
 
 <br/>
 <hr/>
@@ -86,20 +86,9 @@
 </p>
 
 <a> 
-  <a href="https://github.com/Mandla7784"><img alt="Mandla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mandla7784&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Mandla7784"><img alt="Mandla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
+    <a href="https://github.com/Mandla7784"><img alt="Mandla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mandla7784&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Mandla7784"><img alt="Mandla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <br/>
 </a>
 
 ![Mandla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&custom_title=Mandla's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-<br/>
-<hr/>
-<br/>
-
-### Fun Section
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="fun gif"/>
-  <br>
-  Keep coding, keep learning! 💻🚀
-</p>
