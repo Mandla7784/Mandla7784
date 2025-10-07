@@ -1,13 +1,8 @@
-<a href="https://komarev.com/ghpvc/?username=dla7784">
-  <img align="right" src="https://komarev.com/ghpvc/?username=dla7784&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-<h3 align="center">
-  Hey There! I am <b>Mandla Dyonase</b> 👋
-</h3>
+<h2 align="center">👋 Hi, I'm Mandla Dyonase</h2>
+<h3 align="center">Software Engineer & Data Engineer | Cape Town, South Africa 🇿🇦</h3>
 
 <p align="center">
-  A passionate <b>Software Engineer & Data Engineer</b> from Cape Town, South Africa 🇿🇦  
+  💻 Building scalable web & data applications | 🌱 Exploring cloud computing & AI | 🎨 UI/UX design & development
 </p>
 
 <p align="center">
@@ -24,38 +19,50 @@
 
 ---
 
-## About Me
-- 💻 Build scalable web & data applications  
-- 🧠 Strong background in Data Engineering & Full Stack Development  
-- ⚡ Experienced with JavaScript, Python, Java, REST APIs, React, Node.js  
-- 🎨 Skilled in UI/UX design, Figma, Bootstrap  
-- 🌱 Exploring cloud computing & AI integration  
+## 🧠 About Me
+- Passionate about **Software Engineering** and **Data Engineering**  
+- Experienced with **JavaScript, Python, Java, REST APIs, React, Node.js**  
+- Skilled in **UI/UX design, Figma, Bootstrap**  
+- Currently exploring **Cloud Computing, AI integration, and advanced data pipelines**  
 
 ---
 
-## Tech Stack
-![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+## 🛠️ Tech Stack & Tools
 
----
-
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dla7784&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dla7784&layout=compact&langs_count=6&theme=radical" height="160" />
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-F4A261?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
 </div>
 
 ---
 
-## Activity Graph
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dla7784&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dla7784&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dla7784&layout=compact&langs_count=6&theme=radical" height="150" />
 </div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dla7784&theme=radical&area=true&hide_border=false" height="200" />
+</div>
+
+---
+
+## 🌟 Featured Projects
+[![Online Shop](https://github-readme-stats.vercel.app/api/pin/?username=dla7784&repo=online-shopping-Javascriptt&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dla7784/online-shopping-Javascriptt)
+[![School System](https://github-readme-stats.vercel.app/api/pin/?username=dla7784&repo=school-management-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dla7784/school-management-system)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dla7784&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dla7784/portfolio)
