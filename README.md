@@ -1,8 +1,9 @@
-<h2 align="left">Hi 👋! My name is Mandla Dyonase and I'm a passionate Software Engineer with a Data Engineering background from South Africa 🇿🇦</h2>
+<h2 align="left">Hi 👋! My name is Mandla Dyonase and I'm a passionate Software Engineer with a Data Engineering background from Cape Town, South Africa 🇿🇦</h2>
 
 💡 I love building scalable web applications, crafting clean UI/UX, and working with data to solve real-world problems.  
 🚀 Currently improving my skills in backend engineering, data pipelines, and cloud technologies.  
 🎯 Goal: To build modern software solutions that empower businesses and communities.  
+📍 Based in **Cape Town**, South Africa 🌍  
 
 ---
 
@@ -14,9 +15,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandla7784&theme=dracula&hide_border=false" height="160" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&layout=compact&theme=dracula&langs_count=8&hide_border=false" height="160" alt="Top Languages" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&bg_color=282a36&color=ff79c6&line=50fa7b&point=bd93f9&area=true&hide_border=false" height="200" alt="Contribution Graph" />
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&bg_color=282a36&color=ff79c6&line=50fa7b&point=bd93f9&area=true&hide_border=false" height="200" alt="Contribution Graph" />
 </div>
 
 ---
@@ -56,6 +56,14 @@
 
 ---
 
+### 🌱 Currently Learning
+- ☁️ Cloud Computing (AWS & Google Cloud)
+- 🧠 Machine Learning & Data Pipelines
+- ⚙️ TypeScript & Next.js
+- 📈 Data Visualization Tools
+
+---
+
 ### 🌍 Connect with Me
 <div align="left">
   <a href="mailto:your-email@gmail.com">
@@ -77,6 +85,20 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mandla7784/Mandla7784/output/snake.svg" alt="Snake animation" />
+
+---
+
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mandla7784&theme=dracula&no-frame=false&no-bg=false&margin-w=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🧮 3D Contribution Graph (Cartesian Style)
+<div align="center">
+  <img src="https://github.com/MoyuruAizawa/MoyuruAizawa/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Graph" width="100%"/>
+</div>
 
 ---
 
