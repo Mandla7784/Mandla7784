@@ -39,13 +39,11 @@
   
  ✌️ &emsp; Love coding and exploring new technologies <br/><br/>
  ❤️ &emsp; Enjoy building scalable web & data applications <br/><br/>
-
-
 </p>
 
 <br/><br/><br/>
 
-## Tech Stack
+## 🧠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,11 +57,13 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 <br/>
 
-## Top Projects
-
+## 🚀 Top Projects
 
 [![SA Deliver](https://github-readme-stats.vercel.app/api/pin/?username=Mandla7784&repo=SA-deliver&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Mandla7784/SA-deliver)
 
@@ -71,7 +71,8 @@
 <hr/>
 <br/>
 
-### GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/Mandla7784">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandla7784&theme=radical&border=7F3FBF&background=0D1117" alt="Mandla's GitHub streak"/>
