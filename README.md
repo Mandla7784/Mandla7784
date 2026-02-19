@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <samp>
-    「 A passionate Software Engineer with  Data Engineering background from <b>Cape Town, South Africa</b> 🇿🇦 」  
+    「 A passionate Software Engineer with Data Engineering background from <b>Cape Town, South Africa</b> 🇿🇦 」  
     <br>
-    「 Building scalable applications, building APIs, and solving complex problems 」  
+    「 Building scalable applications, APIs, and solving complex problems 」  
   </samp>
 </p>
 
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/mandla-dyonase-83b008260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/Mandla7784" target="_blank">
@@ -39,12 +39,14 @@
   
  ✌️ &emsp; Love coding and exploring new technologies <br/><br/>
  ❤️ &emsp; Enjoy building scalable web & data applications <br/><br/>
+ 🚀 &emsp; Currently focused on Backend, Cloud & Data Engineering <br/><br/>
 </p>
 
 <br/><br/><br/>
 
 ## 🧠 Tech Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -54,12 +56,11 @@
 ![REST API](https://img.shields.io/badge/REST-API-F4A261?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Eslint](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
 <br/>
 
@@ -70,8 +71,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gnome Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
@@ -86,24 +85,29 @@
 <hr/>
 <br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Mandla7784">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandla7784&theme=radical&border=7F3FBF&background=0D1117" alt="Mandla's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandla7784&theme=radical&border=7F3FBF&background=0D1117" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Mandla7784">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mandla7784&theme=radical" alt="Mandla's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mandla7784&theme=radical" />
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/Mandla7784"><img alt="Mandla's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mandla7784&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <a href="https://github.com/Mandla7784"><img alt="Mandla's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-    <br/>
-</a>
+<p align="center">
+  <a href="https://github.com/Mandla7784">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mandla7784&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49%"/>
+  </a>
+  <a href="https://github.com/Mandla7784">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandla7784&layout=compact&langs_count=8&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&hide=html,css" height="192px" width="49%"/>
+  </a>
+</p>
+
+<br/>
 
 ![Mandla's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mandla7784&custom_title=Mandla's%20GitHub%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
